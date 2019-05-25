@@ -2,7 +2,6 @@ package example
 
 import com.raquo.laminar.api.L._
 import com.raquo.laminar.setters.ChildrenCommandSetter.ChildrenCommand
-import com.raquo.domtypes.jsdom.defs.events.TypedTargetMouseEvent
 import com.raquo.laminar.collection.CollectionCommand.Append
 import org.scalajs.dom
 import org.scalajs.dom.document
