@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'photon-entypo';
+    src: url('photon-entypo.woff'), url('photon-entypo.woff') format('woff')
+}
+
+span.icon {
+    margin-top: 2px !important;
+}
